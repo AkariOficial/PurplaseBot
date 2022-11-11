@@ -1,4 +1,4 @@
-# PurpleBot userbot
+# PurplaseBot userbot
 
 ![logo](https://i.ibb.co/xH67gZN/image.png)
 
