@@ -7,7 +7,7 @@ CairoSVG
 cffi
 cowpy
 dnspython
-emoji
+emoji==1.7
 gitpython
 google-api-python-client
 google-auth-httplib2
