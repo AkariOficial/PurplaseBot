@@ -13,7 +13,7 @@ from shutil import which
 
 from telethon import version
 
-from userbot import ALIVE_LOGO, ALIVE_NAME, CMD_HELP, PURPLEBOT_VERSION, bot
+from userbot import ALIVE_LOGO, ALIVE_NAME, CMD_HELP, PURPLASEBOT_VERSION, bot
 from userbot.events import register
 
 # ================= CONSTANT =================
@@ -127,7 +127,7 @@ async def amireallyalive(alive):
     """ For .alive command, check if the bot is running.  """
     output = (
         "`➖➖➖➖➖➖➖➖➖➖➖`\n"
-        f"•  👾 PurpleBot    :   v{PURPLEBOT_VERSION} \n"
+        f"•  👾 PurplaseBot    :   v{PURPLASEBOT_VERSION} \n"
         f"•  ⚙️ Telethon      :   v{version.__version__} \n"
         f"•  🐍 Python         :   v{python_version()} \n"
         f"•  👤 Usuário        :   {DEFAULTUSER} \n"

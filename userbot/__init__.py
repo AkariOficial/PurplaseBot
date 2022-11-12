@@ -82,7 +82,7 @@ HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME")
 HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY")
 
 # Custom (forked) repo URL and BRANCH for updater.
-UPSTREAM_REPO_URL = "https://github.com/thewhiteharlot/PurpleBot.git"
+UPSTREAM_REPO_URL = "https://github.com/AkariOficial/PurplaseBot.git"
 UPSTREAM_REPO_BRANCH = "master"
 
 # Console verbose logging
@@ -170,8 +170,7 @@ GENIUS = os.environ.get("GENIUS_ACCESS_TOKEN")
 USR_TOKEN = os.environ.get("USR_TOKEN_UPTOBOX")
 
 # PurpleBot version
-PURPLEBOT_VERSION = "5.1.2"
-
+PURPLASEBOT_VERSION = "7.0.0"
 
 def shutdown_bot(*_):
     LOGS.info("SIGTERM recebido.")
@@ -230,7 +229,7 @@ with bot:
 async def update_restart_msg(chat_id, msg_id):
     DEFAULTUSER = ALIVE_NAME or "Defina a ConfigVar `ALIVE_NAME`!"
     message = (
-            f"👾 **PurpleBot**   ➡️  `{PURPLEBOT_VERSION}` \n"
+            f"👾 **PurplaseBot**   ➡️  `{PURPLASEBOT_VERSION}` \n"
             f"⚙️ **Telethon**     ➡️  `{version.__version__}` \n"
             f"🐍 **Python**        ➡️  `{python_version()}` \n"
             f"👤 **Usuário**       ➡️   `{DEFAULTUSER}` "
@@ -238,7 +237,6 @@ async def update_restart_msg(chat_id, msg_id):
         )
     await bot.edit_message(chat_id, msg_id, message)
     return True
-
 
 try:
     from userbot.modules.sql_helper.globals import delgvar, gvarstatus
