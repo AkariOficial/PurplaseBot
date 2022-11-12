@@ -30,5 +30,6 @@ Maneira fácil de obter sua STRING_SESSION. Clique no botão e depois no botão 
 
 Certifique-se de ter uma conta no heroku e siga todos os passos necessários.
 
+## Hospedagem HEROKU
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/AkariOficial/PurplaseBot/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Criar app no Heroku" /></a></p>
 
