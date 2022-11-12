@@ -74,13 +74,12 @@
       "description": "Apesar do nome, evita o envio de logs (se houver um acidente) em todos os lugares e armazena em seu grupo de botlog.",
       "value": "True"
     },
-    "addons": [
-    {
-      "plan": "heroku-postgresql",
-      "options": {
-        "version": "12"
-      }
-    }
-    ]
+    "addons": [{
+        "plan": "heroku-postgresql",
+        "options": {
+            "version": "12"
+        }
+    }]
   }
 }
+
