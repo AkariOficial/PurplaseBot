@@ -1,7 +1,7 @@
 {
   "name": "PurplaseBot",
-  "description": "[PurplaseBot] Um userbot modular do Telegram em execução no Python 3.8 com um banco de dados sqlalchemy.",
-  "logo": "https://i.ibb.co/fN3nTx0/image.png",
+  "description": "[PurplaseBot] Um userbot modular do Telegram em execução no Python 3.10 com um banco de dados sqlalchemy.",
+  "logo": "https://telegra.ph/file/55981a3044850e2e2287c.jpg",
   "keywords": ["telegram", "userbot", "plugin", "modular", "productivity"],
   "repository": "https://github.com/AkariOficial/PurplaseBot",
   "website": "https://github.com/AkariOficial/PurplaseBot",
@@ -64,7 +64,7 @@
     },
     "CLEAN_WELCOME": {
       "description": "Quando uma nova pessoa entra, a mensagem de boas-vindas antiga é excluída.",
-      "value": "True"
+      "value": "False"
     },
     "DEFAULT_BIO": {
       "description": "Biografia de perfil padrão.",
@@ -82,12 +82,7 @@
       "description": "Apesar do nome, evita o envio de logs (se houver um acidente) em todos os lugares e armazena em seu grupo de botlog.",
       "value": "True"
     },
-    "USR_TOKEN_UPTOBOX": {
-      "description": "API para uptobox de link direto, https://docs.uptobox.com/#how-to-find-my-api-token",
-      "required": false
-    }
-  },
-  "addons": [
+    "addons": [
     {
       "plan": "heroku-postgresql",
       "options": {
