@@ -33,7 +33,6 @@ pyfiglet
 PyGithub
 pylast
 pySmartDL
-pytessaract
 python-barcode
 python-dateutil
 python-dotenv
