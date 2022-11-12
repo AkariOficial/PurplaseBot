@@ -1,6 +1,6 @@
 # PurplaseBot userbot
 
-![logo](https://i.ibb.co/xH67gZN/image.png)
+![logo](https://camo.githubusercontent.com/60792b11824858949c27623bd78bd3303706c1f5c8ac4f547840d104cce0a00a/68747470733a2f2f74656c656772612e70682f66696c652f3136623062363638303233366532306137613538392e6a7067)
 
 ```
 #include <std/disclaimer.h>
@@ -22,14 +22,8 @@
 Maneira fácil de obter STRING_SESSION. Clique no botão e depois no botão de cor verde 'Executar'
 
 ### Executar no repl.it
-[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=flat-square&logo=repl.it)](https://repl.it/@MoveAngel/UserbotSession?lite=1&outputonly=1) - MoveAngel
+[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=flat-square&logo=repl.it)](https://replit.com/@Nocky/StringSession?lite=1&outputonly=1) - AkariOficial
 
-[![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=flat-square&logo=repl.it)](https://repl.it/@kenhv/sessiongen) - KenHV
-
-### ou execute em seu terminal
-```
-wget https://raw.githubusercontent.com/thewhiteharlot/PurpleBot/master/terminal_getstring.sh && bash terminal_getstring.sh
-```
 
 ## Como hospedar?
 
@@ -43,21 +37,3 @@ Certifique-se de ter uma conta do heroku e siga todos os passos necessários.
 
 <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/AkariOficial/PurplaseBot/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Criar app no Heroku" /></a></p>
 
-
-## Créditos
-
-* [KenHV](https://github.com/KenHV) - KensurBot
-* [RaphielGang](https://github.com/RaphielGang) - Telegram-Paperplane
-* [AvinashReddy3108](https://github.com/AvinashReddy3108) - PaperplaneExtended
-* [kandnub](https://github.com/kandnub) - TG-UserBot
-* [AdekMaulana](https://github.com/adekmaulana) - ProjectBish
-* [Mr.Miss](https://github.com/keselekpermen69) - Userbutt
-* [GengKapak](https://github.com/GengKapak) - DCLXVI
-* [Mkaraniya](https://github.com/mkaraniya) & [Dev73](https://github.com/Devp73) - OpenUserBot
-* [MoveAngel](https://github.com/MoveAngel) - One4UBot
-
-e muitas outras pessoas que não são mencionadas aqui, mas podem ser encontradas em [Contributors](https://github.com/MoveAngel/One4uBot/graphs/contributors).
-
-## Licença
-
-Este userbot é licenciado em [Raphielscape Public License](https://github.com/thewhiteharlot/PurpleBot/blob/master/LICENSE) - Versão 1.c, Janeiro 2021
