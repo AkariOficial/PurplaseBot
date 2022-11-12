@@ -70,14 +70,6 @@
       "description": "Biografia de perfil padrão.",
       "required": false
     },
-    "G_DRIVE_DATA": {
-      "description": "Seu client_secret.json.",
-      "required": false
-    },
-    "G_DRIVE_INDEX_URL": {
-      "description": "Your Cloudflare Google Drive Index URL",
-      "required": false
-    },
     "LOGSPAMMER": {
       "description": "Apesar do nome, evita o envio de logs (se houver um acidente) em todos os lugares e armazena em seu grupo de botlog.",
       "value": "True"
@@ -89,5 +81,6 @@
         "version": "12"
       }
     }
-  ]
+    ]
+  }
 }
