@@ -26,7 +26,6 @@ Maneira fácil de obter sua STRING_SESSION. Clique no botão e depois no botão 
 
 
 ## Como hospedar?
-[Tutorial (texto)](https://telegra.ph/)
 [Tutorial (video)](https://google.com) - Créditos: [Akari](https://t.me/AkariOficial)
 
 Certifique-se de ter uma conta no heroku e siga todos os passos necessários.
