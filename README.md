@@ -1,9 +1,11 @@
 # PurplaseBot userbot
 
 ![](https://img.shields.io/github/followers/AkariOficial?style=plastic)
+![](https://img.shields.io/github/stars/AkariOficial/PurplaseBot?style=plastic)
 ![](https://img.shields.io/github/issues/AkariOficial/PurplaseBot)
 ![](https://img.shields.io/github/issues-raw/AkariOficial/PurplaseBot)
 ![](https://img.shields.io/github/deployments/AkariOficial/PurplaseBot/PurplaseBot)
+![](https://img.shields.io/github/checks-status/AkariOficial/purplasebot/master)
 ![](https://img.shields.io/github/discussions/AkariOficial/PurplaseBot)
 ![](https://img.shields.io/github/languages/code-size/AkariOficial/PurplaseBot)
 ![](https://img.shields.io/github/directory-file-count/AkariOficial/PurplaseBot)
