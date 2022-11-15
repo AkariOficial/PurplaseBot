@@ -1,5 +1,9 @@
 # PurplaseBot userbot
 
+![](https://img.shields.io/github/issues/AkariOficial/PurplaseBot)
+
+
+
 ![logo](https://camo.githubusercontent.com/60792b11824858949c27623bd78bd3303706c1f5c8ac4f547840d104cce0a00a/68747470733a2f2f74656c656772612e70682f66696c652f3136623062363638303233366532306137613538392e6a7067)
 
 ```
