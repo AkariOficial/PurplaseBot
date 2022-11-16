@@ -47,6 +47,11 @@ AFKSTR = [
     "Aposto que você estava esperando uma mensagem de ausência, mas era eu! Dio!",
     "A vida é tão curta, há tantas coisas para fazer ...\nEstou ausente fazendo uma delas ..",
     "Eu não estou aqui agora ...\nmas se estivesse...\n\nisso não seria incrível?",
+    "Eu estou ausente no momento.\nMas quando estiver de volta, avisarei. Tee-hee",
+    "Vai começar o show time!\nEscolha uma das cartas a seguir.",
+    "Olá.\nComo posso te ajudar nesta manhã ensolarada?",
+    "Yokoso!\nComo posso te ignorar neste belo dia? Tee-hee",
+    "Ei, você!\nO quê pensa que está fazendo neste chat?\nMeu mestre não se encontra no momento\nQue tal deixar um... recado?"
 ]
 # =================================================================
 
