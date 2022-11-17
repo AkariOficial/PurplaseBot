@@ -51,7 +51,7 @@ AFKSTR = [
     "Vai começar o show time!\nEscolha uma das cartas a seguir.",
     "Olá.\nComo posso te ajudar nesta manhã ensolarada?",
     "Yokoso!\nComo posso te ignorar neste belo dia? Tee-hee",
-    "Ei, você!\nO quê pensa que está fazendo neste chat?\nMeu mestre não se encontra no momento\nQue tal deixar um... recado?"
+    "Ei, você!\nO quê pensa que está fazendo neste chat?\nMeu mestre não se encontra neste momento...\nQue tal deixar um recado?"
 ]
 # =================================================================
 
